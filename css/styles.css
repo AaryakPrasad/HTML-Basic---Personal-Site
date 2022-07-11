@@ -1,12 +1,37 @@
 body{background-color: #F7ECDE;
-    text-align: justify;}
+    text-align: justify;
+    }
     
 hr{background-color: #F7ECDE;
     border-style:dotted none none;
     border-color: #E9DAC1;
     border-width: 7px;
     width: 30%;
-    margin-left: 1%;}
+    margin-left: 1%;
+    }
     
 img{height:200px; 
     width:200px}
+
+h1{color: #18978F;
+    font-family: 'Montserrat', sans-serif;
+    }
+h2{color: #18978F;
+    font-family: 'Montserrat', sans-serif;
+    }
+h3{color: #18978F;
+    font-family: 'Montserrat', sans-serif;
+    }
+p   {color: #54BAB9;
+    font-family: 'Montserrat', sans-serif;}
+
+ul {color: #54BAB9;
+    font-family: 'Montserrat', sans-serif;}
+ol {color: #54BAB9;
+    font-family: 'Montserrat', sans-serif;}
+
+table {color: #54BAB9;
+        font-family: 'Montserrat', sans-serif;}
+
+a   {color: #54BAB9;
+    text-decoration: none }
