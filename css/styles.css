@@ -1,0 +1,12 @@
+body{background-color: #F7ECDE;
+    text-align: justify;}
+    
+hr{background-color: #F7ECDE;
+    border-style:dotted none none;
+    border-color: #E9DAC1;
+    border-width: 7px;
+    width: 30%;
+    margin-left: 1%;}
+    
+img{height:200px; 
+    width:200px}
